@@ -9,5 +9,7 @@ Must Have:
 
 Склонировать репозиторий, выполнив команду:
 git clone https://github.com/DolgikhTi/ServiceOfExchangeRates.git
+
 Перейдя в корневую папку проекта собрать проект:
+
 gradlew build
