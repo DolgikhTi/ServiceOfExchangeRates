@@ -12,4 +12,4 @@ git clone https://github.com/DolgikhTi/ServiceOfExchangeRates.git
 
 Перейдя в корневую папку проекта собрать проект:
 
-gradlew build
+gradlew buil
